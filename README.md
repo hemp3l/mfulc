@@ -1,5 +1,5 @@
 # mfulc
-MIFARE Ultralight/C Tool for analyzing and hacking MIFARE Ultralight EV1/C tags.
+Tool for analyzing and hacking MIFARE Ultralight EV1/C tags.
 
 ## Installation
 
