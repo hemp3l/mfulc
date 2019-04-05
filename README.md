@@ -1,2 +1,2 @@
-# mful
-MIFARE Ultralight Tool
+# mfulc
+MIFARE Ultralight/C Tool
